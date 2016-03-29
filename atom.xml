@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tiu.io/"/>
-  <updated>2016-03-18T03:20:07.000Z</updated>
+  <updated>2016-03-29T21:33:25.000Z</updated>
   <id>http://tiu.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两份简历</title>
+    <link href="http://tiu.io/2016/03/30/%E4%B8%A4%E4%BB%BD%E7%AE%80%E5%8E%86/"/>
+    <id>http://tiu.io/2016/03/30/两份简历/</id>
+    <published>2016-03-29T20:41:41.000Z</published>
+    <updated>2016-03-29T21:33:25.000Z</updated>
+    
+    <content type="html">&lt;img src=&quot;/2016/03/30/两份简历/sketch.jpg&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
+&lt;p&gt;最近有了离职的想法，但一直没能挤出连续的时间来修改简历。今夜难得失眠，是查漏补缺的好时机，打算尝试一下用设计软件做一份简历。而结果也超出了期望。&lt;/p&gt;
+&lt;img src=&quot;/2016/03/30/两份简历/resumes.png&quot; alt=&quot;Screenshots of the two new CVs.&quot; title=&quot;Screenshots of the two new CVs.&quot;&gt;
+&lt;p&gt;还有一些细节可以优化，找到合适的共享盘之后会将 Sketch 文件分享出来。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/03/30/两份简历/sketch.jpg&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
+&lt;p&gt;最近有了离职的想法，但一直没能挤出连续的时间来修改简历。今
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>辨析 Sass 中的 Map 和 List</title>
