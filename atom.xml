@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tiu.io/"/>
-  <updated>2016-03-30T01:26:33.000Z</updated>
+  <updated>2016-03-31T02:42:21.000Z</updated>
   <id>http://tiu.io/</id>
   
   <author>
@@ -17,19 +17,18 @@
   
   <entry>
     <title>简历</title>
-    <link href="http://tiu.io/blog/CVs/"/>
-    <id>http://tiu.io/blog/CVs/</id>
+    <link href="http://tiu.io/blog/resumes/"/>
+    <id>http://tiu.io/blog/resumes/</id>
     <published>2016-03-29T20:41:41.000Z</published>
-    <updated>2016-03-30T01:26:33.000Z</updated>
+    <updated>2016-03-31T02:42:21.000Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;即使我很少击中目标，你也能认出我一直在瞄准的靶心。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&quot;/blog/CVs/sketch.jpg&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
-&lt;p&gt;最近有了离职的想法，但一直没能挤出连续的时间来修改简历。今夜难得失眠，是查漏补缺的好时机，尝试一下用设计软件做简历。成果倒是大大超出了预期。&lt;/p&gt;
+&lt;img src=&quot;/blog/resumes/powered_by_sketch.png&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;img src=&quot;/blog/CVs/resumes.png&quot; alt=&quot;Screenshots of the two new CVs.&quot; title=&quot;Screenshots of the two new CVs.&quot;&gt;
-&lt;p&gt;这两份简历的设计并不是我原创，而是几乎照搬了 dribbble 上这两个优秀作品的排版：&lt;/p&gt;
+&lt;p&gt;最近有了离职的想法，但一直没能挤出连续的时间来修改简历。今夜难得失眠，是查漏补缺的好时机，尝试一下用设计软件做简历。成果倒是大大超出了预期。&lt;/p&gt;
+&lt;p&gt;这两份简历的设计并不是原创，而是几乎照搬了 dribbble 上这两个优秀作品的排版：&lt;/p&gt;
 &lt;p&gt;CV1 inspired by &lt;a href=&quot;https://dribbble.com/shots/1548207-Web-CV&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web CV by spovv&lt;/a&gt;&lt;br&gt;CV2 inspired by &lt;a href=&quot;https://dribbble.com/shots/2067124-Resume-CV-Jamie&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Resume/CV - ‘Jamie’ by Bill Mawhinney&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;仍有一些细节可以优化，找到合适的共享盘之后会将 Sketch 文件分享出来。&lt;/p&gt;
 </content>
@@ -39,8 +38,7 @@
       &lt;blockquote&gt;
 &lt;p&gt;即使我很少击中目标，你也能认出我一直在瞄准的靶心。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&quot;/blog/CVs/sketch.jpg&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
-&lt;p&gt;最近有了离职的想法，但一直没能挤出连续的时间来修改简历。今夜难得失眠，是查漏补缺的好时机，尝试一下用设计软件做简历。成果倒是大大超出了预期。&lt;/p&gt;
+&lt;img src=&quot;/blog/resumes/powered_by_sketch.png&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
     
     </summary>
     
