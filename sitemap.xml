@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tiu.io/prd/index.html</loc>
+    
+    <lastmod>2016-04-15T18:07:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tiu.io/blog/beating-procrastination/</loc>
     
     <lastmod>2016-04-15T17:37:12.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://tiu.io/blog/the-veil-of-ignorance/</loc>
     
     <lastmod>2016-04-15T17:36:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tiu.io/works/index.html</loc>
-    
-    <lastmod>2016-04-15T16:32:59.000Z</lastmod>
     
   </url>
   
