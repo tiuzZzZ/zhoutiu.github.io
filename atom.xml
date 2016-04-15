@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tiu.io/"/>
-  <updated>2016-04-08T03:08:53.000Z</updated>
+  <updated>2016-04-15T17:37:12.000Z</updated>
   <id>http://tiu.io/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>打败拖延</title>
-    <link href="http://tiu.io/blog/procrastination/"/>
-    <id>http://tiu.io/blog/procrastination/</id>
+    <link href="http://tiu.io/blog/beating-procrastination/"/>
+    <id>http://tiu.io/blog/beating-procrastination/</id>
     <published>2016-04-08T02:38:38.000Z</published>
-    <updated>2016-04-08T03:08:53.000Z</updated>
+    <updated>2016-04-15T17:37:12.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; Zell Liew 是一位设计和代码双修的开发者，同时也是一个带有拖延毛病的普通人。他认为「拖延症」的根源只有一个，即人的恐惧心理，而所谓「完美主义」和「懒惰」不过是在扯谎。&lt;/p&gt;
 &lt;p&gt;有关拖延的文章已经读过太多，但是看完这篇仍然有一丝启发。它让我意识到以大学毕业为中点的前后六年，自己一直身处在一场巨大的拖延中。 &lt;/p&gt;
@@ -41,7 +41,7 @@
 &lt;p&gt;这就是拖延怪圈——我们有了压力，我们逃避，然后压力得到了释放，尽管只是暂时的。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;每当我们遇到重要的工作，这个怪圈就开始循环往复地发生&lt;/strong&gt; ，一遍又一遍……&lt;/p&gt;
 &lt;p&gt;除非你主动打断它。&lt;/p&gt;
-&lt;p&gt;最近我在为 RWD 峰会^[&lt;a href=&quot;http://environmentsforhumans.com/2016/responsive-web-design-summit/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RWD 峰会&lt;/a&gt;是一场有关响应式网页设计的在线会议，RWD = Responsive Web Design]排练一场45分钟的讲座，这个怪圈发生了在我身上。我排练的时候，从没有过一次超过5分钟。我会不断停下来喝口水，停下来透透气，停下来写写脚本、改改幻灯片，甚至是看电影、玩游戏……&lt;/p&gt;
+&lt;p&gt;最近我在为 RWD 峰会&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;排练一场45分钟的讲座，这个怪圈发生了在我身上。我排练的时候，从没有过一次超过5分钟。我会不断停下来喝口水，停下来透透气，停下来写写脚本、改改幻灯片，甚至是看电影、玩游戏……&lt;/p&gt;
 &lt;p&gt;「我是一个完美主义者！需要确保事情万无一失才行！我需要这种确信！」我对自己说。但其实这些全都是胡扯。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;我们之所以试图掩饰自己的恐惧，是因为这些隐藏在深处的恐惧是最真实的，也是无比刺痛的。&lt;/strong&gt; 它刺痛到让人只能选择逃避，选择用虚假的谎言安慰自己抚慰伤痛。这就是「完美主义」等借口的由来。&lt;/p&gt;
 &lt;p&gt;我的拖延持续了整整两天。第三天，我终于拾起勇气停止扯谎，面对拖延所揭示的内心深处的恐惧。&lt;/p&gt;
@@ -54,7 +54,7 @@
 &lt;p&gt;我当时想要得到周围人的认同，而不是被贴上「码农」、「极客」，或者其他什么标签。我尽量不去碰设计和开发，尽管我觉得自己真的需要这些技能。而且我也真的想学这些技能。&lt;/p&gt;
 &lt;p&gt;我就这样逃避学习设计和开发，逃避了许多年，也持续地感受到自己的无用和无能。直到有一天，一位好友跟我道出实情：「你还没有创造出任何有价值的东西」。&lt;/p&gt;
 &lt;p&gt;这句话可以说是促使我行动的转折点，我就是从那时开始设计和编程的生涯。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尽管我有过这么一次克服恐惧的经历，一旦有机会，恐惧还是会对我张牙舞爪。&lt;/strong&gt; 在我练习 RWD 峰会的演讲时有它的影子，在我尝试出售自己的第一本书《&lt;a href=&quot;http://learnsusy.zellwk.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy 教程&lt;/a&gt;》^[&lt;a href=&quot;http://susy.oddbird.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy&lt;/a&gt; 是一款支持响应式布局的前端框架。]时有它的影子，在我第一次写&lt;a href=&quot;http://zellwk.com/blog/why-vertical-rhythms/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;设计相关的文章&lt;/a&gt;时同样有它的影子。每一次遇到这样的情况，我都会选择逃避几天，但我最终总能做到重新面对，并战胜恐惧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尽管我有过这么一次克服恐惧的经历，一旦有机会，恐惧还是会对我张牙舞爪。&lt;/strong&gt; 在我练习 RWD 峰会的演讲时有它的影子，在我尝试出售自己的第一本书《&lt;a href=&quot;http://learnsusy.zellwk.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy 教程&lt;/a&gt;》&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;时有它的影子，在我第一次写&lt;a href=&quot;http://zellwk.com/blog/why-vertical-rhythms/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;设计相关的文章&lt;/a&gt;时同样有它的影子。每一次遇到这样的情况，我都会选择逃避几天，但我最终总能做到重新面对，并战胜恐惧。&lt;/p&gt;
 &lt;p&gt;当你不得不再次面对恐惧，千万不要自怨自艾，这都是人之常情。战胜过它一次，你就该有再赢一次的信心。&lt;/p&gt;
 &lt;p&gt;当然，以上只是我的恐惧。 &lt;strong&gt;不同的人会经历不同的恐惧，如果让你望而却步的原因和我的截然不同，也没什么好奇怪的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我有一个叫 Karen 的朋友，最近停止维护她的个人网站，放弃开启她的生意，尽管她知道自己是一名出色的历史老师。她说服自己是个懒鬼，需要一个自觉对她有责任的朋友狠狠地踹她一脚才行。&lt;/p&gt;
@@ -75,9 +75,10 @@
 &lt;p&gt;我要做设计、编程(甚至包括这一篇文章)的写作，原因是这些所学改变了我的一生。我从别人的分享中获益，因此希望自己的分享也能够启发别的人，也让别人的生活变得更美好。&lt;/p&gt;
 &lt;p&gt;那么，你的理由是什么呢？你可要紧紧地，抓牢它。&lt;/p&gt;
 &lt;h2 id=&quot;打败拖延可以成为习惯&quot;&gt;&lt;a href=&quot;#打败拖延可以成为习惯&quot; class=&quot;headerlink&quot; title=&quot;打败拖延可以成为习惯&quot;&gt;&lt;/a&gt;打败拖延可以成为习惯&lt;/h2&gt;&lt;p&gt;只要你有第一次打败拖延的经验，以后再想打败它就变得容易了，而且将会一次比一次容易。你甚至可以将打败拖延培养成一种习惯，一步步收获更为重要的成果。&lt;/p&gt;
-&lt;p&gt;我之前怎么也想不到我能做到每周写一篇博客。这项任务太繁重了，但我已经坚持了四个月（其中漏了一周:(）。越往后会越简单。&lt;/p&gt;
-&lt;p&gt;来，停止拖延，行动起来。你要是放任不管，拖延这个敌人就会日益变强，今天就去迎战它，现在就去击败它。&lt;/p&gt;
-</content>
+&lt;p&gt;我之前怎么也想不到我能做到每周写一篇博客。这项任务太繁重了，但我已经坚持了四个月 (漏了一周:()。越往后会越简单。&lt;/p&gt;
+&lt;p&gt;来，停止拖延，行动起来。你要是放任不管，拖延这个敌人就会日益强大，今天就去迎战它，现在就去击败它。&lt;/p&gt;
+&lt;p&gt;&lt;hr class=&quot;footnotes-sep&quot;&gt;&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;&lt;br&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;&lt;br&gt;&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://environmentsforhumans.com/2016/responsive-web-design-summit/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RWD 峰会&lt;/a&gt;是一场有关响应式网页设计的在线会议，RWD = Responsive Web Design &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://susy.oddbird.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy&lt;/a&gt; 是一款支持响应式布局的前端框架。 &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;/section&gt;</content>
     
     <summary type="html">
     
@@ -101,7 +102,7 @@
     <link href="http://tiu.io/blog/the-veil-of-ignorance/"/>
     <id>http://tiu.io/blog/the-veil-of-ignorance/</id>
     <published>2016-04-03T05:54:18.000Z</published>
-    <updated>2016-04-08T02:39:09.000Z</updated>
+    <updated>2016-04-15T17:36:35.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt;「无知之幕」是 John Rawls 提出的政治哲学概念，描述一种在对自己社会地位一无所知的情况下尝试设计社会系统的思想实验。Adam Morse 将此概念应用到设计领域，论述了辅助功能设计的重要性。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -113,7 +114,7 @@
 &lt;h2 id=&quot;再想象一下&quot;&gt;&lt;a href=&quot;#再想象一下&quot; class=&quot;headerlink&quot; title=&quot;再想象一下&quot;&gt;&lt;/a&gt;再想象一下&lt;/h2&gt;&lt;p&gt;你失明了，必须借助屏幕朗读才能使用电脑。你基本用不了鼠标，只能通过键盘在界面和网站间切换。&lt;/p&gt;
 &lt;p&gt;假设，你并不清楚明早醒来自己的生活会变成什么样，而你现在拥有一个机会可以重新建造互联网。你会怎么办？你最先想到了什么？你会尝试去解决哪些问题？&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;美国哲学家 John Rawls (1921–2002) 提出了许多发人深省的观点，其中最重要的一条可能便是「无知之幕」的概念^[译者注：&lt;a href=&quot;https://zh.wikipedia.org/wiki/无知之幕&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;无知之幕(veil of ignorance)&lt;/a&gt;实际上是由 John Charles Harsanyi 最先提出的概念，之后被 John Rawls 在《正义论》中使用。中国学者刘瑜也曾借用此概念写过一篇《&lt;a href=&quot;http://www.aisixiang.com/data/39244.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;谁有特权上大学&lt;/a&gt;》。]。这个概念最适合用于社会契约的制定。这里冒着过分简化的风险，简要描述一下 Rawls 的设想： 假定突然天降大任，你可以随心所欲地重构美国社会的方方面面，可以按照自己的喜好任意颁布或者废除法令，施行你信仰的经济和司法体系。但是，换取这一切的前提是你必须处在一个神奇的「无知之幕」中，即当你创造出新的系统后，你就不再是你自己了，而且你也不知道你将在新的社会中担任什么角色。 你可能成为和当前的自己差不多的复刻品，也可能变成另一个完全不同的个体。你的性别、种族都有可能发生变化。你可能会变得一贫如洗和丑陋不堪。你会获得不同级别的智力和价值观。你可能突然变成一个残疾人，或者超级运动员，变成同性恋，或者一名精神失常的罪犯。只有这样，你才可能想要去创造一个尽可能公平完善的社会，因为在这个由你创造的全新国境里，你不清楚自己会被分配到哪一个位置。你需要跳出当前的自己去思考，因为明天你将彻底变成另一个人。&lt;/p&gt;
+&lt;p&gt;美国哲学家 John Rawls (1921–2002) 提出了许多发人深省的观点，其中最重要的一条可能便是「无知之幕」的概念&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;。这个概念最适合用于社会契约的制定。这里冒着过分简化的风险，简要描述一下 Rawls 的设想： 假定突然天降大任，你可以随心所欲地重构美国社会的方方面面，可以按照自己的喜好任意颁布或者废除法令，施行你信仰的经济和司法体系。但是，换取这一切的前提是你必须处在一个神奇的「无知之幕」中，即当你创造出新的系统后，你就不再是你自己了，而且你也不知道你将在新的社会中担任什么角色。 你可能成为和当前的自己差不多的复刻品，也可能变成另一个完全不同的个体。你的性别、种族都有可能发生变化。你可能会变得一贫如洗和丑陋不堪。你会获得不同级别的智力和价值观。你可能突然变成一个残疾人，或者超级运动员，变成同性恋，或者一名精神失常的罪犯。只有这样，你才可能想要去创造一个尽可能公平完善的社会，因为在这个由你创造的全新国境里，你不清楚自己会被分配到哪一个位置。你需要跳出当前的自己去思考，因为明天你将彻底变成另一个人。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;摘自 Chuck Klosterman 《我戴着一顶黑帽子》&lt;/p&gt;
 &lt;p&gt;John Rawls 一生都在为有关公平的理论大声疾呼，我认为如果他考虑转行的话，也能成为一名伟大的设计师。&lt;/p&gt;
@@ -158,7 +159,8 @@
 &lt;li&gt;&lt;a href=&quot;http://section508.gov&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Section 508&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://khan.github.io/tota11y/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;tota11y&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
+&lt;p&gt;&lt;hr class=&quot;footnotes-sep&quot;&gt;&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;&lt;br&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;&lt;br&gt;&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;译者注：&lt;a href=&quot;https://zh.wikipedia.org/wiki/无知之幕&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;无知之幕(veil of ignorance)&lt;/a&gt;实际上是由 John Charles Harsanyi 最先提出的概念，之后被 John Rawls 在《正义论》中使用。中国学者刘瑜也曾借用此概念写过一篇《&lt;a href=&quot;http://www.aisixiang.com/data/39244.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;谁有特权上大学&lt;/a&gt;》。 &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;/section&gt;</content>
     
     <summary type="html">
     
