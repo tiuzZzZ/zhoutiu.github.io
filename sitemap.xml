@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tiu.io/works/index.html</loc>
+    
+    <lastmod>2016-04-15T16:32:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tiu.io/about/index.html</loc>
     
     <lastmod>2016-04-10T14:58:07.000Z</lastmod>
@@ -9,30 +16,23 @@
   </url>
   
   <url>
-    <loc>http://tiu.io/2016/procrastination/</loc>
+    <loc>http://tiu.io/blog/procrastination/</loc>
     
     <lastmod>2016-04-08T03:08:53.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tiu.io/2016/resumes/</loc>
+    <loc>http://tiu.io/blog/resumes/</loc>
     
     <lastmod>2016-04-08T02:39:19.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tiu.io/2016/the-veil-of-ignorance/</loc>
+    <loc>http://tiu.io/blog/the-veil-of-ignorance/</loc>
     
     <lastmod>2016-04-08T02:39:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tiu.io/works/index.html</loc>
-    
-    <lastmod>2016-03-30T09:59:05.000Z</lastmod>
     
   </url>
   
