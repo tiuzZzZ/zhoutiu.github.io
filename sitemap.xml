@@ -2,16 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tiu.io/faq/index.html</loc>
+    <loc>http://tiu.io/about/index.html</loc>
     
-    <lastmod>2016-05-04T15:38:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tiu.io/prd/index.html</loc>
-    
-    <lastmod>2016-05-04T15:34:03.000Z</lastmod>
+    <lastmod>2016-06-27T03:11:33.000Z</lastmod>
     
   </url>
   
@@ -26,13 +19,6 @@
     <loc>http://tiu.io/blog/the-veil-of-ignorance/</loc>
     
     <lastmod>2016-04-15T17:36:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tiu.io/about/index.html</loc>
-    
-    <lastmod>2016-04-10T14:58:07.000Z</lastmod>
     
   </url>
   
