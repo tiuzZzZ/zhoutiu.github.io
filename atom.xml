@@ -23,17 +23,16 @@
     <updated>2016-04-15T17:37:12.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; Zell Liew 是一位设计和代码双修的开发者，同时也是一个带有拖延毛病的普通人。他认为「拖延症」的根源只有一个，即人的恐惧心理，而所谓「完美主义」和「懒惰」不过是在扯谎。&lt;/p&gt;
-&lt;p&gt;有关拖延的文章已经读过太多，但是看完这篇仍然有一丝启发。它让我意识到以大学毕业为中点的前后六年，自己一直身处在一场巨大的拖延中。&lt;/p&gt;
+&lt;p&gt;有关拖延的文章已经读过太多，但是看完这篇仍然有一丝启发。它让我意识到以大学毕业为中点的前后六年，自己一直身处在一场巨大的拖延中。 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;本文翻译自 &lt;a href=&quot;http://zellwk.com/blog/procrastination/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Beating Procrastination&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;!--more--&amp;gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;你有被拖延的毛病困扰吗？&lt;/p&gt;
 &lt;p&gt;我有。我经常拖延，也时刻想改掉拖延的毛病。但是，无论我如何抵抗它，它还是会阴魂不散地缠着我。&lt;/p&gt;
 &lt;p&gt;我最近又被拖延缠上了好一阵，而且很严重，以致整整两天都停滞不前。工作拖沓，压力陡增。这种似曾相识的徒劳感和无力感实在让人难受。&lt;/p&gt;
 &lt;p&gt;熬过这段艰难期，我很想借这次机会跟大家讲讲我拖延时的所思所想。希望这篇文章不仅对自己是个警醒，还能同时帮到你。&lt;/p&gt;
-&lt;h2&gt;为何拖延&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;人类拖延只可能有一种原因：畏惧心理。&lt;/strong&gt; 我们不仅畏惧一旦失败会发生不好的事情，还畏惧即便事成也会出各种差错。&lt;/p&gt;
+&lt;h2 id=&quot;为何拖延&quot;&gt;&lt;a href=&quot;#为何拖延&quot; class=&quot;headerlink&quot; title=&quot;为何拖延&quot;&gt;&lt;/a&gt;为何拖延&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;人类拖延只可能有一种原因：畏惧心理。&lt;/strong&gt; 我们不仅畏惧一旦失败会发生不好的事情，还畏惧即便事成也会出各种差错。&lt;/p&gt;
 &lt;p&gt;所以我们才有压力。在做一些真正重要的事情时，这种压力感会尤其强烈。&lt;/p&gt;
 &lt;p&gt;不幸的是，我们的大脑并不擅长处理这些压力。大部分时候，是我们的本能接管身体并促使我们逃避。&lt;/p&gt;
 &lt;p&gt;但我们能逃到哪儿去？现实之中无处可逃，因为你并不知道压力在哪里。&lt;/p&gt;
@@ -42,7 +41,7 @@
 &lt;p&gt;这就是拖延怪圈——我们有了压力，我们逃避，然后压力得到了释放，尽管只是暂时的。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;每当我们遇到重要的工作，这个怪圈就开始循环往复地发生&lt;/strong&gt; ，一遍又一遍……&lt;/p&gt;
 &lt;p&gt;除非你主动打断它。&lt;/p&gt;
-&lt;p&gt;最近我在为 RWD 峰会&amp;lt;sup class=&amp;quot;footnote-ref&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#fn1&amp;quot; id=&amp;quot;fnref1&amp;quot;&amp;gt;[1]&amp;lt;/a&amp;gt;&amp;lt;/sup&amp;gt;排练一场45分钟的讲座，这个怪圈发生了在我身上。我排练的时候，从没有过一次超过5分钟。我会不断停下来喝口水，停下来透透气，停下来写写脚本、改改幻灯片，甚至是看电影、玩游戏……&lt;/p&gt;
+&lt;p&gt;最近我在为 RWD 峰会&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;排练一场45分钟的讲座，这个怪圈发生了在我身上。我排练的时候，从没有过一次超过5分钟。我会不断停下来喝口水，停下来透透气，停下来写写脚本、改改幻灯片，甚至是看电影、玩游戏……&lt;/p&gt;
 &lt;p&gt;「我是一个完美主义者！需要确保事情万无一失才行！我需要这种确信！」我对自己说。但其实这些全都是胡扯。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;我们之所以试图掩饰自己的恐惧，是因为这些隐藏在深处的恐惧是最真实的，也是无比刺痛的。&lt;/strong&gt; 它刺痛到让人只能选择逃避，选择用虚假的谎言安慰自己抚慰伤痛。这就是「完美主义」等借口的由来。&lt;/p&gt;
 &lt;p&gt;我的拖延持续了整整两天。第三天，我终于拾起勇气停止扯谎，面对拖延所揭示的内心深处的恐惧。&lt;/p&gt;
@@ -55,14 +54,13 @@
 &lt;p&gt;我当时想要得到周围人的认同，而不是被贴上「码农」、「极客」，或者其他什么标签。我尽量不去碰设计和开发，尽管我觉得自己真的需要这些技能。而且我也真的想学这些技能。&lt;/p&gt;
 &lt;p&gt;我就这样逃避学习设计和开发，逃避了许多年，也持续地感受到自己的无用和无能。直到有一天，一位好友跟我道出实情：「你还没有创造出任何有价值的东西」。&lt;/p&gt;
 &lt;p&gt;这句话可以说是促使我行动的转折点，我就是从那时开始设计和编程的生涯。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尽管我有过这么一次克服恐惧的经历，一旦有机会，恐惧还是会对我张牙舞爪。&lt;/strong&gt; 在我练习 RWD 峰会的演讲时有它的影子，在我尝试出售自己的第一本书《&lt;a href=&quot;http://learnsusy.zellwk.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy 教程&lt;/a&gt;》&amp;lt;sup class=&amp;quot;footnote-ref&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#fn2&amp;quot; id=&amp;quot;fnref2&amp;quot;&amp;gt;[2]&amp;lt;/a&amp;gt;&amp;lt;/sup&amp;gt;时有它的影子，在我第一次写&lt;a href=&quot;http://zellwk.com/blog/why-vertical-rhythms/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;设计相关的文章&lt;/a&gt;时同样有它的影子。每一次遇到这样的情况，我都会选择逃避几天，但我最终总能做到重新面对，并战胜恐惧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尽管我有过这么一次克服恐惧的经历，一旦有机会，恐惧还是会对我张牙舞爪。&lt;/strong&gt; 在我练习 RWD 峰会的演讲时有它的影子，在我尝试出售自己的第一本书《&lt;a href=&quot;http://learnsusy.zellwk.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy 教程&lt;/a&gt;》&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;时有它的影子，在我第一次写&lt;a href=&quot;http://zellwk.com/blog/why-vertical-rhythms/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;设计相关的文章&lt;/a&gt;时同样有它的影子。每一次遇到这样的情况，我都会选择逃避几天，但我最终总能做到重新面对，并战胜恐惧。&lt;/p&gt;
 &lt;p&gt;当你不得不再次面对恐惧，千万不要自怨自艾，这都是人之常情。战胜过它一次，你就该有再赢一次的信心。&lt;/p&gt;
 &lt;p&gt;当然，以上只是我的恐惧。 &lt;strong&gt;不同的人会经历不同的恐惧，如果让你望而却步的原因和我的截然不同，也没什么好奇怪的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;我有一个叫 Karen 的朋友，最近停止维护她的个人网站，放弃开启她的生意，尽管她知道自己是一名出色的历史老师。她说服自己是个懒鬼，需要一个自觉对她有责任的朋友狠狠地踹她一脚才行。&lt;/p&gt;
 &lt;p&gt;现在你大概能想到了，懒惰当然也是扯谎。这段闹剧也是源自她内心的恐惧，她害怕自己将被迫和家人分开一段时间。&lt;/p&gt;
 &lt;p&gt;这份恐惧压垮了她，直到我们帮忙找到了原因。&lt;/p&gt;
-&lt;h2&gt;克服拖延&lt;/h2&gt;
-&lt;p&gt;拖延也是一种习惯，怪圈每循环一次就自我加强一次。所以你拖得越久，就越难打破。&lt;/p&gt;
+&lt;h2 id=&quot;克服拖延&quot;&gt;&lt;a href=&quot;#克服拖延&quot; class=&quot;headerlink&quot; title=&quot;克服拖延&quot;&gt;&lt;/a&gt;克服拖延&lt;/h2&gt;&lt;p&gt;拖延也是一种习惯，怪圈每循环一次就自我加强一次。所以你拖得越久，就越难打破。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;想要打破拖延的习惯，你必须追根溯源找到造成你拖延的原因。&lt;/strong&gt; 对我来说，拖延的原因就是这样一种感觉，觉得我做得不对，或者做得不好，觉得其他人可能会不喜欢，觉得我可能没资格教别人等等等等。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;一旦你意识到这种内在关联，就必须改变你的行为习惯，你可以选择坚持完成任务而不是一再拖延。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;事实上，击败拖延的过程将会异常艰巨， &lt;strong&gt;你需要无限的勇气去面对阻碍你前进的障碍，然后越过它。&lt;/strong&gt;&lt;/p&gt;
@@ -76,25 +74,19 @@
 &lt;p&gt;如果没找到恐惧这个内在， &lt;strong&gt;你就需要一个外在的理由来坚持完成手头上的事&lt;/strong&gt; 。找到这个理由，紧紧抓牢它，因为这是你能继续前进的唯一动力。&lt;/p&gt;
 &lt;p&gt;我要做设计、编程(甚至包括这一篇文章)的写作，原因是这些所学改变了我的一生。我从别人的分享中获益，因此希望自己的分享也能够启发别的人，也让别人的生活变得更美好。&lt;/p&gt;
 &lt;p&gt;那么，你的理由是什么呢？你可要紧紧地，抓牢它。&lt;/p&gt;
-&lt;h2&gt;打败拖延可以成为习惯&lt;/h2&gt;
-&lt;p&gt;只要你有第一次打败拖延的经验，以后再想打败它就变得容易了，而且将会一次比一次容易。你甚至可以将打败拖延培养成一种习惯，一步步收获更为重要的成果。&lt;/p&gt;
+&lt;h2 id=&quot;打败拖延可以成为习惯&quot;&gt;&lt;a href=&quot;#打败拖延可以成为习惯&quot; class=&quot;headerlink&quot; title=&quot;打败拖延可以成为习惯&quot;&gt;&lt;/a&gt;打败拖延可以成为习惯&lt;/h2&gt;&lt;p&gt;只要你有第一次打败拖延的经验，以后再想打败它就变得容易了，而且将会一次比一次容易。你甚至可以将打败拖延培养成一种习惯，一步步收获更为重要的成果。&lt;/p&gt;
 &lt;p&gt;我之前怎么也想不到我能做到每周写一篇博客。这项任务太繁重了，但我已经坚持了四个月 (漏了一周:()。越往后会越简单。&lt;/p&gt;
 &lt;p&gt;来，停止拖延，行动起来。你要是放任不管，拖延这个敌人就会日益强大，今天就去迎战它，现在就去击败它。&lt;/p&gt;
-&lt;p&gt;&amp;lt;hr class=&amp;quot;footnotes-sep&amp;quot;&amp;gt;
-&amp;lt;section class=&amp;quot;footnotes&amp;quot;&amp;gt;
-&amp;lt;ol class=&amp;quot;footnotes-list&amp;quot;&amp;gt;
-&amp;lt;li id=&amp;quot;fn1&amp;quot;  class=&amp;quot;footnote-item&amp;quot;&amp;gt;&amp;lt;p&amp;gt;&lt;a href=&quot;http://environmentsforhumans.com/2016/responsive-web-design-summit/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RWD 峰会&lt;/a&gt;是一场有关响应式网页设计的在线会议，RWD = Responsive Web Design &amp;lt;a href=&amp;quot;#fnref1&amp;quot; class=&amp;quot;footnote-backref&amp;quot;&amp;gt;↩&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li id=&amp;quot;fn2&amp;quot;  class=&amp;quot;footnote-item&amp;quot;&amp;gt;&amp;lt;p&amp;gt;&lt;a href=&quot;http://susy.oddbird.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy&lt;/a&gt; 是一款支持响应式布局的前端框架。 &amp;lt;a href=&amp;quot;#fnref2&amp;quot; class=&amp;quot;footnote-backref&amp;quot;&amp;gt;↩&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-&amp;lt;/section&amp;gt;&lt;/p&gt;
-</content>
+&lt;p&gt;&lt;hr class=&quot;footnotes-sep&quot;&gt;&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;&lt;br&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;&lt;br&gt;&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://environmentsforhumans.com/2016/responsive-web-design-summit/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RWD 峰会&lt;/a&gt;是一场有关响应式网页设计的在线会议，RWD = Responsive Web Design &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://susy.oddbird.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Susy&lt;/a&gt; 是一款支持响应式布局的前端框架。 &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;/section&gt;</content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; Zell Liew 是一位设计和代码双修的开发者，同时也是一个带有拖延毛病的普通人。他认为「拖延症」的根源只有一个，即人的恐惧心理，而所谓「完美主义」和「懒惰」不过是在扯谎。&lt;/p&gt;
-&lt;p&gt;有关拖延的文章已经读过太多，但是看完
+&lt;p&gt;有关拖延的文章已经读过太多，但是看完这篇仍然有一丝启发。它让我意识到以大学毕业为中点的前后六年，自己一直身处在一场巨大的拖延中。 &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文翻译自 &lt;a href=&quot;http://zellwk.com/blog/procrastination/&quot;&gt;Beating Procrastination&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -116,23 +108,18 @@
 &lt;blockquote&gt;
 &lt;p&gt;本文翻译自 &lt;a href=&quot;http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;THE VEIL OF IGNORANCE&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;!--more--&amp;gt;&lt;/p&gt;
-&lt;h2&gt;想象一下&lt;/h2&gt;
-&lt;p&gt;你正处在二十多岁的年纪，双眼视力超过 2.0。 你不是色盲，所有的设备都是 Retina 屏。你住在大城市，用着速度超快的网络。&lt;/p&gt;
-&lt;h2&gt;继续想象&lt;/h2&gt;
-&lt;p&gt;你的视力不再是 2.0 了，而是和 65% 的人群一样差。和 4.25% 的人一样，你现在还是个色盲。你恰好变成了每十个人当中的那一个诵读困难者。你的手机也是三年前的了，因为你买不起新的。你用着 3G 网络，每个月只有 1G 流量。而且大部分时候，网速远不如你希望的好。&lt;/p&gt;
-&lt;h2&gt;再想象一下&lt;/h2&gt;
-&lt;p&gt;你失明了，必须借助屏幕朗读才能使用电脑。你基本用不了鼠标，只能通过键盘在界面和网站间切换。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;想象一下&quot;&gt;&lt;a href=&quot;#想象一下&quot; class=&quot;headerlink&quot; title=&quot;想象一下&quot;&gt;&lt;/a&gt;想象一下&lt;/h2&gt;&lt;p&gt;你正处在二十多岁的年纪，双眼视力超过 2.0。 你不是色盲，所有的设备都是 Retina 屏。你住在大城市，用着速度超快的网络。&lt;/p&gt;
+&lt;h2 id=&quot;继续想象&quot;&gt;&lt;a href=&quot;#继续想象&quot; class=&quot;headerlink&quot; title=&quot;继续想象&quot;&gt;&lt;/a&gt;继续想象&lt;/h2&gt;&lt;p&gt;你的视力不再是 2.0 了，而是和 65% 的人群一样差。和 4.25% 的人一样，你现在还是个色盲。你恰好变成了每十个人当中的那一个诵读困难者。你的手机也是三年前的了，因为你买不起新的。你用着 3G 网络，每个月只有 1G 流量。而且大部分时候，网速远不如你希望的好。&lt;/p&gt;
+&lt;h2 id=&quot;再想象一下&quot;&gt;&lt;a href=&quot;#再想象一下&quot; class=&quot;headerlink&quot; title=&quot;再想象一下&quot;&gt;&lt;/a&gt;再想象一下&lt;/h2&gt;&lt;p&gt;你失明了，必须借助屏幕朗读才能使用电脑。你基本用不了鼠标，只能通过键盘在界面和网站间切换。&lt;/p&gt;
 &lt;p&gt;假设，你并不清楚明早醒来自己的生活会变成什么样，而你现在拥有一个机会可以重新建造互联网。你会怎么办？你最先想到了什么？你会尝试去解决哪些问题？&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;美国哲学家 John Rawls (1921–2002) 提出了许多发人深省的观点，其中最重要的一条可能便是「无知之幕」的概念&amp;lt;sup class=&amp;quot;footnote-ref&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#fn1&amp;quot; id=&amp;quot;fnref1&amp;quot;&amp;gt;[1]&amp;lt;/a&amp;gt;&amp;lt;/sup&amp;gt;。这个概念最适合用于社会契约的制定。这里冒着过分简化的风险，简要描述一下 Rawls 的设想： 假定突然天降大任，你可以随心所欲地重构美国社会的方方面面，可以按照自己的喜好任意颁布或者废除法令，施行你信仰的经济和司法体系。但是，换取这一切的前提是你必须处在一个神奇的「无知之幕」中，即当你创造出新的系统后，你就不再是你自己了，而且你也不知道你将在新的社会中担任什么角色。 你可能成为和当前的自己差不多的复刻品，也可能变成另一个完全不同的个体。你的性别、种族都有可能发生变化。你可能会变得一贫如洗和丑陋不堪。你会获得不同级别的智力和价值观。你可能突然变成一个残疾人，或者超级运动员，变成同性恋，或者一名精神失常的罪犯。只有这样，你才可能想要去创造一个尽可能公平完善的社会，因为在这个由你创造的全新国境里，你不清楚自己会被分配到哪一个位置。你需要跳出当前的自己去思考，因为明天你将彻底变成另一个人。&lt;/p&gt;
+&lt;p&gt;美国哲学家 John Rawls (1921–2002) 提出了许多发人深省的观点，其中最重要的一条可能便是「无知之幕」的概念&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;。这个概念最适合用于社会契约的制定。这里冒着过分简化的风险，简要描述一下 Rawls 的设想： 假定突然天降大任，你可以随心所欲地重构美国社会的方方面面，可以按照自己的喜好任意颁布或者废除法令，施行你信仰的经济和司法体系。但是，换取这一切的前提是你必须处在一个神奇的「无知之幕」中，即当你创造出新的系统后，你就不再是你自己了，而且你也不知道你将在新的社会中担任什么角色。 你可能成为和当前的自己差不多的复刻品，也可能变成另一个完全不同的个体。你的性别、种族都有可能发生变化。你可能会变得一贫如洗和丑陋不堪。你会获得不同级别的智力和价值观。你可能突然变成一个残疾人，或者超级运动员，变成同性恋，或者一名精神失常的罪犯。只有这样，你才可能想要去创造一个尽可能公平完善的社会，因为在这个由你创造的全新国境里，你不清楚自己会被分配到哪一个位置。你需要跳出当前的自己去思考，因为明天你将彻底变成另一个人。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;摘自 Chuck Klosterman 《我戴着一顶黑帽子》&lt;/p&gt;
 &lt;p&gt;John Rawls 一生都在为有关公平的理论大声疾呼，我认为如果他考虑转行的话，也能成为一名伟大的设计师。&lt;/p&gt;
-&lt;h2&gt;想象&lt;/h2&gt;
-&lt;p&gt;你开车去参加一场面试。从车里出来之前你照了照镜子，拉了拉领带。你四肢健全，所以你可以打开车门顺利钻出来。早上你还跑了6公里，然后做了20分钟的拉伸。你的双腿感觉棒极了！你径直穿过停车场，跃上几节台阶。这些动作你闭着眼睛都能完成。&lt;/p&gt;
-&lt;h2&gt;接着想象&lt;/h2&gt;
-&lt;p&gt;你来到同一幢写字楼参加面试，可惜你的双腿不太好使。下了车之后，你坐着轮椅穿过停车场，但是那儿却找不到坡道。坐着轮椅没法爬楼梯，你感到束手无策。&lt;/p&gt;
+&lt;h2 id=&quot;想象&quot;&gt;&lt;a href=&quot;#想象&quot; class=&quot;headerlink&quot; title=&quot;想象&quot;&gt;&lt;/a&gt;想象&lt;/h2&gt;&lt;p&gt;你开车去参加一场面试。从车里出来之前你照了照镜子，拉了拉领带。你四肢健全，所以你可以打开车门顺利钻出来。早上你还跑了6公里，然后做了20分钟的拉伸。你的双腿感觉棒极了！你径直穿过停车场，跃上几节台阶。这些动作你闭着眼睛都能完成。&lt;/p&gt;
+&lt;h2 id=&quot;接着想象&quot;&gt;&lt;a href=&quot;#接着想象&quot; class=&quot;headerlink&quot; title=&quot;接着想象&quot;&gt;&lt;/a&gt;接着想象&lt;/h2&gt;&lt;p&gt;你来到同一幢写字楼参加面试，可惜你的双腿不太好使。下了车之后，你坐着轮椅穿过停车场，但是那儿却找不到坡道。坐着轮椅没法爬楼梯，你感到束手无策。&lt;/p&gt;
 &lt;p&gt;不过要感谢《美国残疾人法案》，这种情况很少发生。对大部分人来说，建筑物前的阶梯根本算不上阻碍，我们也从来不会留意那里有没有坡道。我们同样不会在乎过道的宽度是不是足够轮椅通行，或者过厅的宽度够不够转向。我们几乎不可能去思考这些，因为这些在我们的生活中不是必需。&lt;/p&gt;
 &lt;p&gt;在开始创造一样东西时，我们被迫去思考那些我们生活中不需要的事物。只因为有其他人需要。&lt;/p&gt;
 &lt;p&gt;当一些人用到一样东西，却发现设计者根本没有考虑他们的基本需求，想象一下那种失望之情。我觉得这关系到一个人的尊严。&lt;/p&gt;
@@ -140,8 +127,7 @@
 &lt;p&gt;《美国残疾人法案》是美国人权法规中最完整的法案之一。它禁止歧视，保障了残障人士在参与美国主流生活时和其他人享有平等的机会，包括就业机会，购买商品和服务，以及享受联邦或当地政府提供的福利。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;想想你正在做的网站、应用或者其他数码产品，所有的使用者都可以得到平等的机会以「参与到美国主流生活中」吗？从统计学上讲，大部分答案都会是否定的。但你也确确实实在提供一项「服务」。&lt;/p&gt;
-&lt;h2&gt;一个事实&lt;/h2&gt;
-&lt;ul&gt;
+&lt;h2 id=&quot;一个事实&quot;&gt;&lt;a href=&quot;#一个事实&quot; class=&quot;headerlink&quot; title=&quot;一个事实&quot;&gt;&lt;/a&gt;一个事实&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;20岁时，人类的视网膜可以捕获 100% 的光线。&lt;/li&gt;
 &lt;li&gt;40岁时，只有 50% 的可见光能够进入视网膜。&lt;/li&gt;
 &lt;li&gt;而对一个80岁的老人，视网膜能够接受到的可见光仅剩 25%。&lt;/li&gt;
@@ -154,14 +140,12 @@
 &lt;/ul&gt;
 &lt;p&gt;那我们就先来谈谈色彩对比度。&lt;/p&gt;
 &lt;p&gt;十六进制码中一共有 140,737,479,966,720 中色彩组合。当然并不是所有组合都是易于辨认的。假设这些色彩组合中只有 1% 易于分辨，你仍然有1亿4千1百万种选择。用这些颜色搭配给你这辈子见过的所有车棚上漆，都应该远远足够了。&lt;/p&gt;
-&lt;h2&gt;版面设计&lt;/h2&gt;
-&lt;p&gt;「如果觉得字太小，用户可以按住 Command + 键来增大字号。」&lt;/p&gt;
+&lt;h2 id=&quot;版面设计&quot;&gt;&lt;a href=&quot;#版面设计&quot; class=&quot;headerlink&quot; title=&quot;版面设计&quot;&gt;&lt;/a&gt;版面设计&lt;/h2&gt;&lt;p&gt;「如果觉得字太小，用户可以按住 Command + 键来增大字号。」&lt;/p&gt;
 &lt;p&gt;这是一个不容忽视的事实，但这里我想反驳一句：字号太大也可能会对用户产生冒犯，也应当提供按下 Command - 键来减小字号的功能。我还没见过有人这么做。大多数时候，我能观察到的是浏览页面的人猛地调大字号。这一点上似乎有些落后了。&lt;/p&gt;
 &lt;p&gt;版面设计和色彩、音乐一样，说白了都是给不同元素设定一种关联形态。如果大号字体看起来很丑，十有八九是因为你选用了一种不恰当的字体比例，这个选择打破了原设计体系的平衡。字体比例本来就是相对的。&lt;/p&gt;
 &lt;p&gt;之所以选用大号字体，是为了方便所有人阅读。不是所有人都能看清小字，这是一个事实。不可能有人抱怨 20px 的字大到难以阅读，在我做过的所有用户测试中也没听到过这种说法。但肯定有人抱怨过 10-12px 大小字体的可读性。&lt;/p&gt;
 &lt;p&gt;再回过头来想想把台阶做成坡道有多重要。每个人都能爬坡，但不是所有人都能爬台阶。作为设计界的一员，我们应当建造更多的坡道而非阶梯。&lt;/p&gt;
-&lt;h2&gt;设计的道德&lt;/h2&gt;
-&lt;p&gt;我是一名设计师，我做设计的目的并不是为了东西的美观，而是为了让它有用。&lt;/p&gt;
+&lt;h2 id=&quot;设计的道德&quot;&gt;&lt;a href=&quot;#设计的道德&quot; class=&quot;headerlink&quot; title=&quot;设计的道德&quot;&gt;&lt;/a&gt;设计的道德&lt;/h2&gt;&lt;p&gt;我是一名设计师，我做设计的目的并不是为了东西的美观，而是为了让它有用。&lt;/p&gt;
 &lt;p&gt;我做设计师是为了解决问题。我希望人们在使用先进技术的时候能有更少的挫败感，希望给别人的生活带来一丝便利。我也不想给任何人的生活造成麻烦。&lt;/p&gt;
 &lt;p&gt;这两种表达听起来很相似，却有着不同之处。两者都值得好好思考一下。&lt;/p&gt;
 &lt;p&gt;当我沉下心来开始设计工作时，我会尝试将自己装进无知之幕中，想象我处在世界的另一个角落。我会想到一些可能给我造成麻烦的东西，然后试着改进它。&lt;/p&gt;
@@ -169,33 +153,28 @@
 &lt;p&gt;我为我能想到的所有人设计。如今越来越多的人对拥有越来越多屏幕大小各异的设备越来越感兴趣。&lt;/p&gt;
 &lt;p&gt;如果每个人都在用你的产品，这种设计方法将对你的业务非常有益。即使你没那么多用户，这也是件值得去做的事情。只因它的绝对正确。&lt;/p&gt;
 &lt;p&gt;无论如何，我很乐意这么去做。&lt;/p&gt;
-&lt;h2&gt;延伸阅读&lt;/h2&gt;
-&lt;ul&gt;
+&lt;h2 id=&quot;延伸阅读&quot;&gt;&lt;a href=&quot;#延伸阅读&quot; class=&quot;headerlink&quot; title=&quot;延伸阅读&quot;&gt;&lt;/a&gt;延伸阅读&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://jxnblk.com/writing/posts/mathematical-web-typography/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mathematical web typography&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://wm4.wilsonminer.com/posts/2008/oct/20/relative-readability/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Relative Readability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://section508.gov&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Section 508&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://khan.github.io/tota11y/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;tota11y&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;lt;hr class=&amp;quot;footnotes-sep&amp;quot;&amp;gt;
-&amp;lt;section class=&amp;quot;footnotes&amp;quot;&amp;gt;
-&amp;lt;ol class=&amp;quot;footnotes-list&amp;quot;&amp;gt;
-&amp;lt;li id=&amp;quot;fn1&amp;quot;  class=&amp;quot;footnote-item&amp;quot;&amp;gt;&amp;lt;p&amp;gt;译者注：&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%97%A0%E7%9F%A5%E4%B9%8B%E5%B9%95&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;无知之幕(veil of ignorance)&lt;/a&gt;实际上是由 John Charles Harsanyi 最先提出的概念，之后被 John Rawls 在《正义论》中使用。中国学者刘瑜也曾借用此概念写过一篇《&lt;a href=&quot;http://www.aisixiang.com/data/39244.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;谁有特权上大学&lt;/a&gt;》。 &amp;lt;a href=&amp;quot;#fnref1&amp;quot; class=&amp;quot;footnote-backref&amp;quot;&amp;gt;↩&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-&amp;lt;/section&amp;gt;&lt;/p&gt;
-</content>
+&lt;p&gt;&lt;hr class=&quot;footnotes-sep&quot;&gt;&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;&lt;br&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;&lt;br&gt;&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;译者注：&lt;a href=&quot;https://zh.wikipedia.org/wiki/无知之幕&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;无知之幕(veil of ignorance)&lt;/a&gt;实际上是由 John Charles Harsanyi 最先提出的概念，之后被 John Rawls 在《正义论》中使用。中国学者刘瑜也曾借用此概念写过一篇《&lt;a href=&quot;http://www.aisixiang.com/data/39244.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;谁有特权上大学&lt;/a&gt;》。 &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;/section&gt;</content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt;「无知之幕」是 John Rawls 提出的政治哲学概念，描述一种在对自己社会地位一无所知的情况下尝试设计社会系统的思想实验。Adam Morse 将此概念应用到设计领域，论述了辅助功能设计的重要性。&lt;/p&gt;
-&lt;blockquo
+&lt;blockquote&gt;
+&lt;p&gt;本文翻译自 &lt;a href=&quot;http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/&quot;&gt;THE VEIL OF IGNORANCE&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
     
-      <category term="design" scheme="http://tiu.io/tags/design/"/>
-    
       <category term="translation" scheme="http://tiu.io/tags/translation/"/>
+    
+      <category term="design" scheme="http://tiu.io/tags/design/"/>
     
   </entry>
   
@@ -209,12 +188,12 @@
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;即使我很少击中目标，你也能认出我一直在瞄准的靶心。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/blog/resumes/powered_by_sketch.png&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;!--more--&amp;gt;&lt;/p&gt;
+&lt;img src=&quot;/blog/resumes/powered_by_sketch.png&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;最近有了离职的想法，但一直没能挤出连续的时间来修改简历。今夜难得失眠，是查漏补缺的好时机，尝试一下用设计软件做简历。成果倒是大大超出了预期。&lt;/p&gt;
 &lt;p&gt;这两份简历的设计并不是原创，而是几乎照搬了 dribbble 上这两个优秀作品的排版：&lt;/p&gt;
 &lt;p&gt;CV1 inspired by &lt;a href=&quot;https://dribbble.com/shots/1548207-Web-CV&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web CV by spovv&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;CV2 inspired by &lt;a href=&quot;https://dribbble.com/shots/2067124-Resume-CV-Jamie&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Resume/CV - &#39;Jamie&#39; by Bill Mawhinney&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CV2 inspired by &lt;a href=&quot;https://dribbble.com/shots/2067124-Resume-CV-Jamie&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Resume/CV - ‘Jamie’ by Bill Mawhinney&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;仍有一些细节可以优化，找到合适的共享盘之后会将 Sketch 文件分享出来。&lt;/p&gt;
 </content>
     
@@ -223,7 +202,7 @@
       &lt;blockquote&gt;
 &lt;p&gt;即使我很少击中目标，你也能认出我一直在瞄准的靶心。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/blog/resumes/powered_by_sketch.png&quot; alt=&quot;Proudly powered by Sketch
+&lt;img src=&quot;/blog/resumes/powered_by_sketch.png&quot; alt=&quot;Proudly powered by Sketch.&quot; title=&quot;Proudly powered by Sketch.&quot;&gt;
     
     </summary>
     
