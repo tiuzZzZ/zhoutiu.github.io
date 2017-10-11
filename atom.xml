@@ -172,9 +172,9 @@
     </summary>
     
     
-      <category term="translation" scheme="http://tiu.io/tags/translation/"/>
-    
       <category term="design" scheme="http://tiu.io/tags/design/"/>
+    
+      <category term="translation" scheme="http://tiu.io/tags/translation/"/>
     
   </entry>
   
